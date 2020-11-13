@@ -91,6 +91,7 @@ hist(Newsteps$steps,
      col="green")
 ```
 
+
 ## Are there differences in activity patterns between weekdays and weekends?
 ```{r}
 ## Create a column with Weekday or Weekend :
